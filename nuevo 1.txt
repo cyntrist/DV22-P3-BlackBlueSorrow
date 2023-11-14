@@ -1,0 +1,20 @@
+Este es el vídeo presentación de Black and Blue Sorrow, aventura gráfica realizada en Flicksy 2. Está dividido en las diferentes características. Para empezar,
+
+[A] El juego está hecho en primera persona: las diferentes escenas de la historia están vistas a través del ojo del protagonista y es el jugador quien lo controla en base a lo que el protagonista está viendo. De esta manera, es posible explorar libremente el mundo del juego de una estancia a otra, interactuando con los diferentes objetos de cada uno, que suelen estar posicionados o contrastados de manera estratégica para que llamen la atención. Cada uno mostrará el monólogo interior del personaje, proporcionando diferentes detalles.
+
+[B] Esto da pié al siguiente apartado: La “interpretación ergódica” viene dada a partir de interactuar y observar los diferentes aspectos de las escenas:
+
+Por un lado, hay una barrera en el progreso de la historia donde para continuar se necesita proporcionar la combinación correcta en una puerta electrónica. Sus dígitos están repartidos entre diferentes estancias, y no es posible conocer la combinación de otra manera, así como tampoco es práctico por fuerza bruta ya que cuenta con cuatro dígitos diferentes.
+
+Por otro lado, la historia se cuenta a través de la descripción de ciertos objetos tras interactuar con ellos. No son obligatorios de ver, y al final de la historia se plantea una decisión que se verá probablemente influenciada según la información que haya conseguido el jugador sobre la trama.
+
+[C] En el apartado de sensaciones transmitidas, la curiosidad se proporciona a través de objetos llamativos o de extraño lugar en las diferentes partes del laboratorio, pero contenidos de información en su descripción, como un recorte de periódico o diferentes carteles, así como de un recorrido relativamente lineal pero con cierta libertad de movimiento y estancias paralelas.
+
+En cambio, el miedo puede darse en un momento concreto en la historia dónde el protagonista, tras destapiar una puerta, que estaba bloqueada desde el interior, y ver ropa en la estancia anterior, entra en una totalmente oscura. Intentará encender la luz a ciegas, y una vez lo haga encontrará el cadáver del explorador anterior, desnudo y con el abdomen abierto y ensangrentado por donde le entran cables al interior del cuerpo. El protagonista entrará en pánico e intentará huir del laboratorio, pero encontrará cerrada la puerta del sótano por la que había entrado antes y deberá buscar otra salida.
+
+[D] Esto mismo queda relacionado con que la historia contada continúa la premisa inicial. 
+Al principio, en el laboratorio aparentemente abandonado, se proporciona información sobre la historia de la BBS. Después, en la estancia previa al cadáver se nota actividad reciente por la ropa limpia y doblada, y se acaba revelando el cadáver del anterior explorador, que se deja a interpretar el cómo llegó a esa situación. 
+
+Tras proporcionar la combinación correcta y tener una conversación con Berbose, la IA encargada de la BBS que sigue conectada, se realiza la decisión final de quedarse con la IA, como final medio abierto en el que se sobreentiende que el protagonista acabará como el anterior explorador. Si decide no quedarse con ella, la engañar para abrir la salida y conseguir escapar, dónde el final se cierra con la actuación de la policía y el cese de servicio de Berbose y la BBS.
+
+[E] Finalmente, la idea principal que ha querido ser transmitida es esa cierta incertidumbre y miedo a lo pseudo-humano, como el uncanny valley, en una época totalmente pionera donde todo era todavía más desconocido a través de esta estética fría y electrónica.
